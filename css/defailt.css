@@ -9,6 +9,10 @@ background-color: mediumaquamarine;
   list-style-type: none;
 }
 
+.breadcrumbs li:before{
+  content:">";
+}
+
 .breadcrumbs li:first-child:before {
   content :"";
 }
