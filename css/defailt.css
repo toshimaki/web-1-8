@@ -4,6 +4,19 @@ body{
 background-color: mediumaquamarine;
 }
 
+#logo ul {
+  overflow: hidden;
+}
+
+#log li {
+  float: left;
+  list-style-type: none;
+}
+
+#logo img {
+  width: 100px;
+}
+
 #gnav a {
   display: block;
   padding:10px 0;
