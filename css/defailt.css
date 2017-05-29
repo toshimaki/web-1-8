@@ -15,7 +15,7 @@ background-color: mediumaquamarine;
   list-style-type: none;
 }
 
-#gnav li:first-child{
+#gnav li:first-child {
   border-left: white 1px solid;
 }
 
